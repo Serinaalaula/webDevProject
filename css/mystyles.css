@@ -1,0 +1,19 @@
+/* this will be applied to the about and index pages*/
+
+h1{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.custom1{
+    background-color:tan
+}
+
+li{
+    padding-bottom:10px;
+}
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.paddingSpace{
+    padding: 20px;
+}
